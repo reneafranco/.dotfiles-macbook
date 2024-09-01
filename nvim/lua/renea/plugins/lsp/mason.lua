@@ -34,6 +34,7 @@ return {
 				"tailwindcss",
 				"lua_ls",
 				"pyright",
+				"angularls",
 			},
 		})
 
@@ -48,6 +49,7 @@ return {
 				"pylint",
 				"eslint_d",
 				"checkstyle", --java formatter
+				"angularls",
 			},
 		})
 	end,
